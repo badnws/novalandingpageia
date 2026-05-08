@@ -26,7 +26,7 @@ export function Hero() {
           className="mt-6 text-center font-display text-4xl font-700 leading-[1.05] tracking-tight sm:text-5xl lg:text-6xl"
         >
           Perícia Forense de Imagens{" "}
-          <span className="bg-gradient-to-r from-white to-[color-mix(in_oklab,var(--brand-blue)_70%,white)] bg-clip-text text-transparent">
+         <span className="bg-gradient-to-r from-white to-blue-500 bg-clip-text text-transparent">
             Geradas ou Manipuladas por IA
           </span>
         </motion.h1>
